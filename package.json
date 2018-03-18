@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "go": "node index.js"
+    "go": "node 5620/index.js"
   },
   "dependencies": {
     "n-readlines": "^0.2.8",
