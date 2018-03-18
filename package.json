@@ -1,0 +1,13 @@
+{
+  "name": "bakjoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "go": "node index.js"
+  },
+  "dependencies": {
+    "n-readlines": "^0.2.8",
+    "readline-sync": "^1.4.9"
+  }
+}
